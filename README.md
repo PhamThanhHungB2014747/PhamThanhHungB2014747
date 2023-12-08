@@ -13,7 +13,7 @@ class Hung:
 <h3>Contact me:</h3>
 <a href=https://www.facebook.com/pth.ziz> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
 
-<h3>Languages:</h3>
+<h3>Programing Languages:</h3>
 <div display=""flex">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
