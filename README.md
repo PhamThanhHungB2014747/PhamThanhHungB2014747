@@ -6,7 +6,7 @@ class Hung:
     self.class = 2024
     self.school = "CTU 🐘"
     self.hobbies = ["music", "coding"]
-    self.favorite_language = ["JavaScript"],
+    self.favorite_language = ["JavaScript"]
     self.favorite_frameworks_libraries = ["nodejs", "vuejs"]
 ```
 
