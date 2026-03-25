@@ -5,7 +5,7 @@ class Hung:
   def __init__(self):
     self.class = 2024
     self.school = "CTU 🐘"
-    self.hobbies = ["music", "coding"]
+    self.hobbies = ["music", "coding","cooking"]
     self.favorite_language = ["JavaScript"]
     self.favorite_frameworks_libraries = ["nodejs", "vuejs"]
 ```
